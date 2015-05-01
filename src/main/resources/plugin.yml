@@ -1,0 +1,5 @@
+name: SimpleFactionChat
+main: io.github.gh0ztbuster.simplefactionchat.SimpleFactionChat
+version: 1.0
+author: gh0ztbuster
+depend: [Factions, MassiveCore]
