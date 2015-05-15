@@ -28,14 +28,11 @@ SimpleFactionChat uses @&lt;Message> formatting to talk to fellow faction member
 ## Report Bugs
 * Report any issues here: https://github.com/gh0ztbuster/SimpleFactionChat/issues
 
-## Commands
-* None
+## Bukkit
+* Download the compiled version of this plugin at http://dev.bukkit.org/bukkit-plugins/simplefactionchat/
 
-## Config
-* None
-
-## Permissions
-* None
+## Additional Information
+* No configs, commands, or permissions.
 
 ## Source
 This is my sourcecode: https://github.com/gh0ztbuster/SimpleFactionChat
