@@ -39,3 +39,6 @@ SimpleFactionChat uses @&lt;Message> formatting to talk to fellow faction member
 
 ## Source
 This is my sourcecode: https://github.com/gh0ztbuster/SimpleFactionChat
+
+## License
+All Rights Reserved.
